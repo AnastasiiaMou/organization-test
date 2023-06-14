@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22",
+    "validator": "^13.9.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "organization",
+  "version": "1.0.0",
+  "description": "organization structure",
+  "main": "app.js",
+  "author": "Anastasiia Skorobohata",
+  "license": "ISC",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "npm": "^9.7.1",
+    "typescript": "^5.1.3"
+  }
+}
